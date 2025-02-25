@@ -25,12 +25,12 @@
 
 ## Technologies Used
 
-- numpy - version 1.23.5
-- pandas - version 1.5.2
-- matplotlib - version 3.6.2
-- seaborn - version 0.12.2
-- scikit-learn - version 1.2.2
-- statsmodels - version 0.13.5
+- NumPy Version: 1.26.4
+- Pandas Version: 2.2.2
+- Matplotlib Version: 3.9.2
+- Seaborn Version: 0.13.2
+- Statsmodels Version: 0.14.2
+- Scikit-learn Version: 1.5.1
 
 
 ## Contact
